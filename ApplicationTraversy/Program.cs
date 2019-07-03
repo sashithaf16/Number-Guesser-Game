@@ -6,23 +6,9 @@ namespace ApplicationTraversy
     {
         static void Main(string[] args)
         {
-            string app = "number guesser";
-            string version = "1.0";
+            getAppInfo();
 
-            //background color use Console.BackgroundColor
-            //TextColor Use Console.ForegroundColor
-
-            Console.ForegroundColor = ConsoleColor.Red;
-
-            Console.WriteLine("{0} : for version {1}",app,version);
-
-            Console.ResetColor();
-            //prompt
-            Console.WriteLine("Name ?");
-            //User input
-            string nameInput = Console.ReadLine();
-
-            Console.WriteLine("Hello  " + nameInput);
+            greetUser();
 
             while (true)
             {
@@ -100,6 +86,30 @@ namespace ApplicationTraversy
 
 
 
+        }
+
+         static void greetUser()
+        {
+            //prompt
+            Console.WriteLine("Name ?");
+            //User input
+            string nameInput = Console.ReadLine();
+
+            Console.WriteLine("Hello  " + nameInput); 
+        }
+
+        static void getAppInfo()
+        {
+            string app = "number guesser";
+            string version = "1.0";
+
+            //background color use Console.BackgroundColor
+            //TextColor Use Console.ForegroundColor
+
+            Console.ForegroundColor = ConsoleColor.Red;
+
+            Console.WriteLine("{0} : for version {1}", app, version);
+            Console.ResetColor();
         }
     }
 }
