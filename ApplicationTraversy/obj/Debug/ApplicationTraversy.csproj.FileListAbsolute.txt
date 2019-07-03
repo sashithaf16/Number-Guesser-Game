@@ -1,0 +1,7 @@
+D:\Projects\C#\TestApplication\ApplicationTraversy\ApplicationTraversy\bin\Debug\ApplicationTraversy.exe.config
+D:\Projects\C#\TestApplication\ApplicationTraversy\ApplicationTraversy\bin\Debug\ApplicationTraversy.exe
+D:\Projects\C#\TestApplication\ApplicationTraversy\ApplicationTraversy\bin\Debug\ApplicationTraversy.pdb
+D:\Projects\C#\TestApplication\ApplicationTraversy\ApplicationTraversy\obj\Debug\ApplicationTraversy.csprojAssemblyReference.cache
+D:\Projects\C#\TestApplication\ApplicationTraversy\ApplicationTraversy\obj\Debug\ApplicationTraversy.csproj.CoreCompileInputs.cache
+D:\Projects\C#\TestApplication\ApplicationTraversy\ApplicationTraversy\obj\Debug\ApplicationTraversy.exe
+D:\Projects\C#\TestApplication\ApplicationTraversy\ApplicationTraversy\obj\Debug\ApplicationTraversy.pdb
